@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <manifest>
-  <control namespace="Lightbox" constructor="Lightbox" version="1.0.2" display-name-key="Lightbox" description-key="Lightbox description">
+  <control namespace="Lightbox" constructor="Lightbox" version="1.0.3" display-name-key="Lightbox" description-key="Lightbox description">
     <property name="images" display-name-key="Images" description-key="Images array (JSON)" of-type="SingleLine.Text" usage="bound" required="true" />
     <resources>
       <code path="index.ts" order="1" />
